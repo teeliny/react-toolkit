@@ -51,4 +51,8 @@ After the installation, cd into the your-app-name and run npm install. Also inst
 - [Dog API site](https://www.thedogapi.com/)
 
 ## Acknowledgments
+<<<<<<< HEAD
 A lot of kudos goes to Jason Lengstorf - Owner of Learn with Jason and Mark Erikson - Author of Redux for the lessons from the clip [Let's Learn Modern Redux](https://www.learnwithjason.dev/let-s-learn-modern-redux)
+=======
+A lot of kudos goes to Jason Lengstorf - Owner of Learn with Jason and Mark Erikson - Author of Redux for the lessons from the clip Let's Learn Modern Redux(https://www.learnwithjason.dev/let-s-learn-modern-redux)
+>>>>>>> 43869b51f8453a12a9e22b0e96def42556c10e18
