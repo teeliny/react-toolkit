@@ -19,7 +19,7 @@ This app is a front end app that was built with React Library using vitejs.
 Vitejs is a tool that helps to create a react app under 5 seconds with less dependencies in the node modules.
 
 ### Installation
-As mentioned earlier, this app is but using vitejs command: [@vitejs/create-app](#https://github.com/vitejs/create-vite-app)
+As mentioned earlier, this app is but using vitejs command: [@vitejs/create-app](https://github.com/vitejs/create-vite-app)
 
 
 
